@@ -1,0 +1,341 @@
+mixed-port: 7890
+allow-lan: true
+mode: Rule
+log-level: info
+proxies:
+  - {name: (@ClashVpn) Albania -Tirana, server: 31.171.155.99, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Argentina - Buenos Aires, server: 91.206.168.64, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Australia - Perth, server: 124.150.139.29, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Australia - Adelaide, server: 45.248.79.83, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Australia - Brisbane, server: 144.48.39.123, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Australia - Melbourne, server: 103.192.80.131, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Australia - Sydney, server: 180.149.228.171, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Austria-Vienna, server: 146.70.28.91, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Azerbaijan-Baku, server: 94.20.154.59, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Belgium-Brussels, server: 194.110.115.243, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Bosnia & Herzegovina-Sarajevo, server: 185.99.3.207, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Brazil-Sao Paulo, server: 138.199.58.77, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Bulgaria-Sofia, server: 37.120.152.195, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Canada - Montreal, server: 91.245.254.35, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Canada - Toronto, server: 37.19.211.99, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Canada - Vancouver, server: 198.8.92.69, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Chile・Santiago, server: 31.169.121.3, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Colombia・Bogota, server: 45.129.32.10, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Costa Rica・San Jose, server: 176.227.241.21, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Croatia・Zagreb, server: 176.222.34.115, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Cyprus・Nicosia, server: 195.47.194.32, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Czech Republic・Prague, server: 217.138.220.165, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Denmark・Copenhagen, server: 193.29.107.181, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Estonia・Tallinn, server: 165.231.163.23, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Finland・Helsinki, server: 196.196.203.101, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) France, server: 185.166.84.87, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) France 2, server: 143.244.57.97, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) France 3, server: 185.108.106.146, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Germany, server: 193.29.106.155, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Germany 2, server: 138.199.19.162, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Germany 3, server: 144.91.123.52, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Greece・Athens, server: 194.150.167.30, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Hong Kong・Hong Kong, server: 212.102.42.211, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Hungary・Budapest, server: 37.120.144.195, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Iceland・Reykjavik, server: 45.133.193.109, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) India, server: 103.156.50.117, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) India 2, server: 103.73.189.29, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) India 3, server: 103.94.27.179, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Indonesia・Jakarta, server: 103.148.242.168, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Ireland・Dublin, server: 185.252.222.109, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Italy, server: 212.102.54.135, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Italy 2, server: 185.217.71.189, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Japan・Tokyo, server: 138.199.22.145, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Kazakhstan・Oral, server: 5.189.202.14, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Latvia・Riga, server: 188.92.78.210, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Luxembourg・Luxembourg, server: 185.153.151.83, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Malaysia・Kuala Lumpur, server: 111.90.141.52, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Mexico・Mexico City, server: 194.41.112.21, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Moldova・Chisinau, server: 194.33.40.112, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Netherlands・Amsterdam, server: 89.46.223.98, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) New Zealand・Auckland, server: 180.149.231.13, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Nigeria・Lagos, server: 102.165.23.40, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) North Macedonia・Skopje, server: 185.225.28.85, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Norway・Oslo, server: 91.219.215.83, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Panama・Panama, server: 185.244.139.3, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Peru・Lima, server: 193.218.35.7, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Philippines・Manila, server: 45.134.224.10, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Poland, server: 185.246.208.176, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Poland 2, server: 37.28.156.117, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Portugal, server: 194.39.127.231, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Portugal 2, server: 91.250.240.140, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Romania・Bucharest, server: 185.102.217.196, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Russia・Moscow, server: 92.38.138.143, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Serbia・Belgrade, server: 152.89.160.117, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Singapore・Singapore, server: 89.187.163.134, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Slovakia・Bratislava, server: 193.37.255.35, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Slovenia・Ljubljana, server: 195.158.249.40, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) South Africa・Johannesburg, server: 154.127.49.226, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) South Korea・Seoul, server: 45.130.137.30, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Spain, server: 185.188.61.65, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Spain 2, server: 89.37.95.173, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Spain 3, server: 185.153.150.70, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Sweden・Stockholm, server: 185.76.9.34, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Switzerland・Zurich, server: 84.17.53.219, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Taiwan・Taichung City, server: 2.58.241.133, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Thailand・Bangkok, server: 27.131.164.91, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Turkey, server: 107.150.94.29, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Ukraine・Kyiv, server: 156.146.50.107, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United Arab Emirates・Dubai, server: 45.9.249.245, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United Kingdom, server: 185.134.22.191, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United Kingdom 2, server: 91.90.121.251, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United Kingdom 3, server: 185.108.105.83, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States, server: 45.43.19.92, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 2, server: 173.237.207.21, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 3, server: 172.93.146.84, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 4, server: 104.244.208.205, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 5, server: 84.17.35.113, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 6, server: 138.199.42.151, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 7, server: 207.244.86.33, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 8, server: 212.102.46.46, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 9, server: 66.115.166.147, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 10, server: 154.16.171.197, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 11, server: 148.72.169.209, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 12, server: 212.102.44.91, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 13, server: 209.216.92.197, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 14, server: 104.200.131.172, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 15, server: 212.102.61.130, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 16, server: 66.115.182.72, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 17, server: 79.110.54.123, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 18, server: 45.43.14.103, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 19, server: 173.208.149.195, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 20, server: 66.115.177.138, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 21, server: 185.124.240.147, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 22, server: 172.98.87.35, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 23, server: 172.83.44.83, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) United States 24, server: 199.10.64.83, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Venezuela・Caracas, server: 45.149.3.5, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+  - {name: (@ClashVpn) Vietnam・Ho Chi Minh City, server: 210.211.118.232, port: 44266, type: ss, cipher: aes-256-gcm, password: C9L7hNRkPJegasNHLm3HrGtj, udp: true}
+proxy-groups:
+  - name: 🔰 SELECT(@VpnProtected)
+    type: select
+    proxies:
+      - ♻️ BESTPING(@VpnProtected)
+      - (@ClashVpn) Albania -Tirana
+      - (@ClashVpn) Argentina - Buenos Aires
+      - (@ClashVpn) Australia - Perth
+      - (@ClashVpn) Australia - Adelaide
+      - (@ClashVpn) Australia - Brisbane
+      - (@ClashVpn) Australia - Melbourne
+      - (@ClashVpn) Australia - Sydney
+      - (@ClashVpn) Austria-Vienna
+      - (@ClashVpn) Azerbaijan-Baku
+      - (@ClashVpn) Belgium-Brussels
+      - (@ClashVpn) Bosnia & Herzegovina-Sarajevo
+      - (@ClashVpn) Brazil-Sao Paulo
+      - (@ClashVpn) Bulgaria-Sofia
+      - (@ClashVpn) Canada - Montreal
+      - (@ClashVpn) Canada - Toronto
+      - (@ClashVpn) Canada - Vancouver
+      - (@ClashVpn) Chile・Santiago
+      - (@ClashVpn) Colombia・Bogota
+      - (@ClashVpn) Costa Rica・San Jose
+      - (@ClashVpn) Croatia・Zagreb
+      - (@ClashVpn) Cyprus・Nicosia
+      - (@ClashVpn) Czech Republic・Prague
+      - (@ClashVpn) Denmark・Copenhagen
+      - (@ClashVpn) Estonia・Tallinn
+      - (@ClashVpn) Finland・Helsinki
+      - (@ClashVpn) France
+      - (@ClashVpn) France 2
+      - (@ClashVpn) France 3
+      - (@ClashVpn) Germany
+      - (@ClashVpn) Germany 2
+      - (@ClashVpn) Germany 3
+      - (@ClashVpn) Greece・Athens
+      - (@ClashVpn) Hong Kong・Hong Kong
+      - (@ClashVpn) Hungary・Budapest
+      - (@ClashVpn) Iceland・Reykjavik
+      - (@ClashVpn) India
+      - (@ClashVpn) India 2
+      - (@ClashVpn) India 3
+      - (@ClashVpn) Indonesia・Jakarta
+      - (@ClashVpn) Ireland・Dublin
+      - (@ClashVpn) Italy
+      - (@ClashVpn) Italy 2
+      - (@ClashVpn) Japan・Tokyo
+      - (@ClashVpn) Kazakhstan・Oral
+      - (@ClashVpn) Latvia・Riga
+      - (@ClashVpn) Luxembourg・Luxembourg
+      - (@ClashVpn) Malaysia・Kuala Lumpur
+      - (@ClashVpn) Mexico・Mexico City
+      - (@ClashVpn) Moldova・Chisinau
+      - (@ClashVpn) Netherlands・Amsterdam
+      - (@ClashVpn) New Zealand・Auckland
+      - (@ClashVpn) Nigeria・Lagos
+      - (@ClashVpn) North Macedonia・Skopje
+      - (@ClashVpn) Norway・Oslo
+      - (@ClashVpn) Panama・Panama
+      - (@ClashVpn) Peru・Lima
+      - (@ClashVpn) Philippines・Manila
+      - (@ClashVpn) Poland
+      - (@ClashVpn) Poland 2
+      - (@ClashVpn) Portugal
+      - (@ClashVpn) Portugal 2
+      - (@ClashVpn) Romania・Bucharest
+      - (@ClashVpn) Russia・Moscow
+      - (@ClashVpn) Serbia・Belgrade
+      - (@ClashVpn) Singapore・Singapore
+      - (@ClashVpn) Slovakia・Bratislava
+      - (@ClashVpn) Slovenia・Ljubljana
+      - (@ClashVpn) South Africa・Johannesburg
+      - (@ClashVpn) South Korea・Seoul
+      - (@ClashVpn) Spain
+      - (@ClashVpn) Spain 2
+      - (@ClashVpn) Spain 3
+      - (@ClashVpn) Sweden・Stockholm
+      - (@ClashVpn) Switzerland・Zurich
+      - (@ClashVpn) Taiwan・Taichung City
+      - (@ClashVpn) Thailand・Bangkok
+      - (@ClashVpn) Turkey
+      - (@ClashVpn) Ukraine・Kyiv
+      - (@ClashVpn) United Arab Emirates・Dubai
+      - (@ClashVpn) United Kingdom
+      - (@ClashVpn) United Kingdom 2
+      - (@ClashVpn) United Kingdom 3
+      - (@ClashVpn) United States
+      - (@ClashVpn) United States 2
+      - (@ClashVpn) United States 3
+      - (@ClashVpn) United States 4
+      - (@ClashVpn) United States 5
+      - (@ClashVpn) United States 6
+      - (@ClashVpn) United States 7
+      - (@ClashVpn) United States 8
+      - (@ClashVpn) United States 9
+      - (@ClashVpn) United States 10
+      - (@ClashVpn) United States 11
+      - (@ClashVpn) United States 12
+      - (@ClashVpn) United States 13
+      - (@ClashVpn) United States 14
+      - (@ClashVpn) United States 15
+      - (@ClashVpn) United States 16
+      - (@ClashVpn) United States 17
+      - (@ClashVpn) United States 18
+      - (@ClashVpn) United States 19
+      - (@ClashVpn) United States 20
+      - (@ClashVpn) United States 21
+      - (@ClashVpn) United States 22
+      - (@ClashVpn) United States 23
+      - (@ClashVpn) United States 24
+      - (@ClashVpn) Venezuela・Caracas
+      - (@ClashVpn) Vietnam・Ho Chi Minh City
+  - name: ♻️ BESTPING(@VpnProtected)
+    type: url-test
+    url: https://www.google.com
+    interval: 300
+    proxies:
+      - (@ClashVpn) Albania -Tirana
+      - (@ClashVpn) Argentina - Buenos Aires
+      - (@ClashVpn) Australia - Perth
+      - (@ClashVpn) Australia - Adelaide
+      - (@ClashVpn) Australia - Brisbane
+      - (@ClashVpn) Australia - Melbourne
+      - (@ClashVpn) Australia - Sydney
+      - (@ClashVpn) Austria-Vienna
+      - (@ClashVpn) Azerbaijan-Baku
+      - (@ClashVpn) Belgium-Brussels
+      - (@ClashVpn) Bosnia & Herzegovina-Sarajevo
+      - (@ClashVpn) Brazil-Sao Paulo
+      - (@ClashVpn) Bulgaria-Sofia
+      - (@ClashVpn) Canada - Montreal
+      - (@ClashVpn) Canada - Toronto
+      - (@ClashVpn) Canada - Vancouver
+      - (@ClashVpn) Chile・Santiago
+      - (@ClashVpn) Colombia・Bogota
+      - (@ClashVpn) Costa Rica・San Jose
+      - (@ClashVpn) Croatia・Zagreb
+      - (@ClashVpn) Cyprus・Nicosia
+      - (@ClashVpn) Czech Republic・Prague
+      - (@ClashVpn) Denmark・Copenhagen
+      - (@ClashVpn) Estonia・Tallinn
+      - (@ClashVpn) Finland・Helsinki
+      - (@ClashVpn) France
+      - (@ClashVpn) France 2
+      - (@ClashVpn) France 3
+      - (@ClashVpn) Germany
+      - (@ClashVpn) Germany 2
+      - (@ClashVpn) Germany 3
+      - (@ClashVpn) Greece・Athens
+      - (@ClashVpn) Hong Kong・Hong Kong
+      - (@ClashVpn) Hungary・Budapest
+      - (@ClashVpn) Iceland・Reykjavik
+      - (@ClashVpn) India
+      - (@ClashVpn) India 2
+      - (@ClashVpn) India 3
+      - (@ClashVpn) Indonesia・Jakarta
+      - (@ClashVpn) Ireland・Dublin
+      - (@ClashVpn) Italy
+      - (@ClashVpn) Italy 2
+      - (@ClashVpn) Japan・Tokyo
+      - (@ClashVpn) Kazakhstan・Oral
+      - (@ClashVpn) Latvia・Riga
+      - (@ClashVpn) Luxembourg・Luxembourg
+      - (@ClashVpn) Malaysia・Kuala Lumpur
+      - (@ClashVpn) Mexico・Mexico City
+      - (@ClashVpn) Moldova・Chisinau
+      - (@ClashVpn) Netherlands・Amsterdam
+      - (@ClashVpn) New Zealand・Auckland
+      - (@ClashVpn) Nigeria・Lagos
+      - (@ClashVpn) North Macedonia・Skopje
+      - (@ClashVpn) Norway・Oslo
+      - (@ClashVpn) Panama・Panama
+      - (@ClashVpn) Peru・Lima
+      - (@ClashVpn) Philippines・Manila
+      - (@ClashVpn) Poland
+      - (@ClashVpn) Poland 2
+      - (@ClashVpn) Portugal
+      - (@ClashVpn) Portugal 2
+      - (@ClashVpn) Romania・Bucharest
+      - (@ClashVpn) Russia・Moscow
+      - (@ClashVpn) Serbia・Belgrade
+      - (@ClashVpn) Singapore・Singapore
+      - (@ClashVpn) Slovakia・Bratislava
+      - (@ClashVpn) Slovenia・Ljubljana
+      - (@ClashVpn) South Africa・Johannesburg
+      - (@ClashVpn) South Korea・Seoul
+      - (@ClashVpn) Spain
+      - (@ClashVpn) Spain 2
+      - (@ClashVpn) Spain 3
+      - (@ClashVpn) Sweden・Stockholm
+      - (@ClashVpn) Switzerland・Zurich
+      - (@ClashVpn) Taiwan・Taichung City
+      - (@ClashVpn) Thailand・Bangkok
+      - (@ClashVpn) Turkey
+      - (@ClashVpn) Ukraine・Kyiv
+      - (@ClashVpn) United Arab Emirates・Dubai
+      - (@ClashVpn) United Kingdom
+      - (@ClashVpn) United Kingdom 2
+      - (@ClashVpn) United Kingdom 3
+      - (@ClashVpn) United States
+      - (@ClashVpn) United States 2
+      - (@ClashVpn) United States 3
+      - (@ClashVpn) United States 4
+      - (@ClashVpn) United States 5
+      - (@ClashVpn) United States 6
+      - (@ClashVpn) United States 7
+      - (@ClashVpn) United States 8
+      - (@ClashVpn) United States 9
+      - (@ClashVpn) United States 10
+      - (@ClashVpn) United States 11
+      - (@ClashVpn) United States 12
+      - (@ClashVpn) United States 13
+      - (@ClashVpn) United States 14
+      - (@ClashVpn) United States 15
+      - (@ClashVpn) United States 16
+      - (@ClashVpn) United States 17
+      - (@ClashVpn) United States 18
+      - (@ClashVpn) United States 19
+      - (@ClashVpn) United States 20
+      - (@ClashVpn) United States 21
+      - (@ClashVpn) United States 22
+      - (@ClashVpn) United States 23
+      - (@ClashVpn) United States 24
+      - (@ClashVpn) Venezuela・Caracas
+      - (@ClashVpn) Vietnam・Ho Chi Minh City
+rules:
+ - MATCH,♻️ BESTPING(@VpnProtected),🔰 SELECT(@VpnProtected)
